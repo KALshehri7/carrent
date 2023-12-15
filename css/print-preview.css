@@ -1,0 +1,66 @@
+#details-container {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    font-size: 11px;
+    width: 1023px;
+}
+#details-header {
+    margin-top: 20px;
+}
+#vehicle_title {
+    float: left;
+    font-size: 2em !important;
+    /* background: #A60000; */
+}
+#vehicle_title h3 {
+    padding-left: 0 !important;
+}
+#vehicle_price {
+    float: right;
+    font-size: 2em !important;
+}
+#vehicle_price h3 {
+    padding-left:  0 !important;
+}
+.left_section {
+    float: left;
+}
+.left_section h3 {
+    padding-left: 0 !important;
+}
+.right_section {
+    float: left;
+    margin-left: 20px;
+}
+#vehicle_info {
+
+}
+#vehicle_info_left{
+    float: left;
+}
+#vehicle_info_left p{
+    font-weight: bold;
+    margin: 7px;
+}
+#vehicle_info_right{
+    float: right;
+    margin-left: 50px;
+}
+#vehicle_info_right p {
+    margin: 7px;
+}
+.fa-arrow-position {
+    position: absolute;
+    bottom: 50%;
+}
+#carousel-example-generic > div > div.item > img {
+    width: 366px !important;
+    height: 250px !important;
+}
+#note-text {
+    resize:vertical;
+    width: 365px;
+}
+#print-btn {
+    margin-top: 10px;
+}
